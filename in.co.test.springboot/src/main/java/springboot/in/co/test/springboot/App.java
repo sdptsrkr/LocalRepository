@@ -11,6 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Testing GIT checkin!" );
         System.out.println( "Testing GIT checkin successful!" );
-        System.out.println( "Testing GIT checkin Kaushik successful!" );
+        System.out.println( "Testing GIT checkin Kaushik successful!!" );
     }
 }
