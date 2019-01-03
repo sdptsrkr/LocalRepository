@@ -12,5 +12,6 @@ public class App
         System.out.println( "Testing GIT checkin!" );
         System.out.println( "Testing GIT checkin successful!" );
         System.out.println( "Testing GIT checkin Kaushik successful!!" );
+        System.out.println(" GIT checking in from another location !!");
     }
 }
